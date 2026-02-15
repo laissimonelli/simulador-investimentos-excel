@@ -32,6 +32,7 @@
 ## Autor
 
 Laís Simonelli
+
 Projeto desenvolvido como parte do desafio prático da DIO, seguindo as orientações das videoaulas da plataforma.
 
 ## Aprendizados
